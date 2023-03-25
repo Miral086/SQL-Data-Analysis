@@ -1,4 +1,4 @@
-# SQL-Data-Exploration
+# SQL-Data-Analysis
 This repository contains a collection of SQL queries and scripts that can be used for data exploration and analysis. The queries cover various aspects of data exploration, including data profiling, summarization, aggregation, filtering, sorting, and joining.
 
 The queries are designed to work with a variety of relational databases, such as MySQL, PostgreSQL, Oracle, and Microsoft SQL Server. They can be easily customized and adapted to different data sources and schemas.
